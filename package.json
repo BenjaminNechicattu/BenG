@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "learn git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjaminnechicattu/BenG.git"
+  },
+  "author": "beng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjaminnechicattu/BenG/issues"
+  },
+  "homepage": "https://github.com/Benjaminnechicattu/BenG#readme"
+}
